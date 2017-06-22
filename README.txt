@@ -81,3 +81,7 @@ DESCRIPTION
 		format of the QUBO file.
 	-r seed 
 		Used to reset the seed for the random number generation 
+
+---
+
+kan i haz cheeseburger?
